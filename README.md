@@ -1,6 +1,6 @@
 # Projeto-danki-code-front-end-2.0
 <h2>Projeto do front-end final do curso de front-end 2.0  da Danki code.</h2>
-<a href="https://luiz-gui04.github.io/Projeto-danki-code-front-end-2.0/">Veja o site</a>
+<p>Para ver como ficou,<a href="https://luiz-gui04.github.io/Projeto-danki-code-front-end-2.0/">clique aqui.</a><p/>
 
 <h2>Linguagens</h2>
 <p>1- JavaScript</p>
